@@ -2,3 +2,19 @@
     margin: 0;
     padding: 0;
 }
+/* HEADER PHONE AND EMAIL LINKS */
+header div > a {
+    color: black;
+    text-decoration: none;
+    margin: auto 5px;
+}
+header div > a i {
+    margin: auto 2px auto 0;
+}
+header div > a:hover {
+    color: #fbc900;
+}
+.topheader {
+    height: 20px;
+    width: 100%;
+}
