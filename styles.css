@@ -4,7 +4,7 @@
 }
 /* HEADER PHONE AND EMAIL LINKS */
 header div > a {
-    color: black;
+    color: white;
     text-decoration: none;
     margin: auto 5px;
 }
@@ -15,6 +15,10 @@ header div > a:hover {
     color: #fbc900;
 }
 .topheader {
-    height: 20px;
+    height: 30px;
     width: 100%;
+    color: #2e2d2d;
+    display: flex;
+    align-items: center;
+   justify-content: left;
 }
